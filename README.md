@@ -28,3 +28,6 @@ Core 3DGS Implementation: This project integrates the highly optimized open-sour
 Datasets: Point cloud datasets used for visualization are sourced from the original 3D Gaussian Splatting research publications.
 
 My Focus: My work in this repository centers on environment configuration, pipeline integration within Unity 2022 URP, and exploring deployment strategies for VR hardware.
+
+---
+*Developed by Yiheng C. | Computer Science Undergrad @ constructor university
